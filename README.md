@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I am building a basic recipe wesbite. This website will consist of a main index page and will have links to a few recipes. The aim of this project is to practice the HTML knowledge I have acquired
